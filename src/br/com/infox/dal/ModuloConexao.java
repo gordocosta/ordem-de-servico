@@ -15,6 +15,7 @@ import java.sql.*;
 public class ModuloConexao {
     
     // metodo responsavel por estabelecer conexao com o banco
+    //testegit
     
     public static Connection conector(){
            
